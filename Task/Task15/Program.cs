@@ -17,3 +17,6 @@ void CheckingTheDayOfTheWeek(int dayNumber)
 }
 
 CheckingTheDayOfTheWeek(dayNumber);
+
+Здравствуйте Семён, буду честен с вами, 10 задачу решил сам , остальные списал.
+Пытаюсь разбираться по 10 раз переписываю всё, тяжело идет в общем.    
